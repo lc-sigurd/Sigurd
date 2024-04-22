@@ -5,6 +5,6 @@
     "version": "8.0.100"
   },
   "msbuild-sdks": {
-    "Sigurd.Thunderstore.Sdk": "0.2.4"
+    "Sigurd.Thunderstore.Sdk": "0.3.6"
   }
 }
